@@ -1,0 +1,93 @@
+# 각 파일 실습 내용
+
+### :arrow_right: 2020.08.05
+
+- BeautifulSoup , urllib 활용
+- 위키문서에서 '하늘과 바람과 별과 시' 수록 시 수집
+- Stackoverflo 파이썬 질문 내용 수집
+- '다음 '사이트 영화 댓글 수집
+
+---
+
+### :arrow_right: 2020.08.07
+
+- 네이버 지식인에 파이썬 관련 질문 수집
+- 다나와 사이트 노트북 정보 수집
+
+---
+
+### :arrow_right: 2020.08.10
+
+- selenium 활용으로 브라우저를 조작하며 웹 크롤링
+- 인스타그램에서 '제주도 맛집' 키워드로 정보 수집
+
+---
+
+### :arrow_right: 2020.08.12
+
+- tqdm 모듈 활용 progress bar 
+- 보배드림 사이트에서 국산차 매물 정보 수집
+
+---
+
+### :arrow_right: 2020.08.18
+
+- 기상 예보 페이지에서 날씨 데이터 수집
+
+---
+
+### :arrow_right:항목
+
+
+
+
+
+### :arrow_right:항목
+
+
+
+
+
+### :arrow_right:항목
+
+
+
+
+
+### :arrow_right:항목
+
+
+
+
+
+### :arrow_right:항목
+
+
+
+
+
+### :arrow_right:항목
+
+
+
+
+
+### :arrow_right:항목
+
+
+
+
+
+### :arrow_right:항목
+
+
+
+
+
+### :arrow_right:항목
+
+
+
+
+
+### :arrow_right:항목
