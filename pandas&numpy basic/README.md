@@ -39,3 +39,40 @@
 
 ---
 
+### :arrow_right: 2020.09.09
+
+- [캐글 타이타닉 학습 데이터셋](https://www.kaggle.com/hesh97/titanicdataset-traincsv) 을 활용하여 pandas 활용 자료 다루기 실습
+- 정규 표현식 활용 칭호 (Mr, Mrs , Sir, ..) 추출
+- NaN 값 처리 (각 열 평균 적용)
+- 중복 제거 , 유니크 컬럼 추출
+- value_counts 활용 그룹핑
+
+---
+
+### :arrow_right: 2020.09.11
+
+- [캐글 바이크 쉐어링 데이터셋](https://www.kaggle.com/search?q=bike+share+in%3Adatasets) 을 활용하여 데이터프레임 실습
+- 재구조화 , 시리얼 데이터 참조 및 활용
+- 각 feature 들 사이 상관계수 계산을 통해 상관분석
+- sklearn.preprocessing 모듈의 표준화 도구 StandScaler 메소드 활용
+
+---
+
+### :arrow_right: 2020.09.14
+
+- [캐글 iris 데이터셋](https://www.kaggle.com/uciml/iris) 과 [캐글 titanic 데이터셋](https://www.kaggle.com/c/titanic) 을 활용한 자료 다루기 실습
+- sklearn.preprocessing 모듈의 One-Hot-Encoder 활용으로 텍스트 인코딩
+- 사용자 정의 구간 (bins) 활용 커스텀 그룹핑
+
+---
+
+### :arrow_right: 2020.09.15
+
+- numpy 활용 배열 다루기 실습 , pandas 다중 인덱스 활용 실습
+- tile , zstack() , hstack() , vstack()
+- MultIndex Object()
+
+---
+
+
+
