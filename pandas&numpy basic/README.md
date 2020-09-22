@@ -51,7 +51,7 @@
 
 ### :arrow_right: 2020.09.11
 
-- [캐글 바이크 쉐어링 데이터셋](https://www.kaggle.com/search?q=bike+share+in%3Adatasets) 을 활용하여 데이터프레임 실습
+- [캐글 바이크 쉐어링 데이터셋](https://www.kaggle.com/c/bike-sharing-demand/data) 을 활용하여 데이터프레임 실습
 - 재구조화 , 시리얼 데이터 참조 및 활용
 - 각 feature 들 사이 상관계수 계산을 통해 상관분석
 - sklearn.preprocessing 모듈의 표준화 도구 StandScaler 메소드 활용
